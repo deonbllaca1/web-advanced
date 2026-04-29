@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Lesson 13</title>
+  </head>
+  <body>
+
+    <article>
+      <p>Paragraph 1 in the article.</p>
+      <p>Paragraph 1 in the article</p>
+      <div><p>Paragraph 3 in the article</p></div>
+    </article>
+
+  </body>
+</html>
