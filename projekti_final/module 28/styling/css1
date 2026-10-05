@@ -1,0 +1,15 @@
+.test{
+    font-size: 20px;
+    color: red;
+    background-color: yellow;
+    padding: 10px;
+    margin-top: 5px;
+    border: 2px solid black;
+    text-align: center;
+    transition: 1s  ease;
+    trasnform: scale(0.9);
+}
+
+.test2{
+    display:none
+} 
