@@ -1,0 +1,10 @@
+ul li{
+    margin-bottom:15px;
+    padding:10px;
+    color:white;
+    list-style-type: none;
+}
+
+ul#select {
+    padding:0px;
+}
