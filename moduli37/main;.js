@@ -7,10 +7,8 @@
 
    $("#sort").sortable();
 
-   $(function) {
+   $(function){
     $("#accordion").accordion()
-   })
-
-   
+}
    $("tabs").tabs
 
